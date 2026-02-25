@@ -34,4 +34,5 @@ if 42<=len(conc) and len(conc)<(42+48):
     line = conc[41:90]
     space_n = 47 - len(conc[41:90])
     print(f"| {line}", " "*space_n, end=' |\n')
+
     print(ui_border)
