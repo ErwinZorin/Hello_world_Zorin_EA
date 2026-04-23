@@ -2,6 +2,8 @@
 n = int(input("Число N: "))
 E = 0
 i = 1
+
+
 while i <= n:
     E = E + i * i
     E = E + 1
