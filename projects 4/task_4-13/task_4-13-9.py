@@ -1,4 +1,4 @@
-array = [5, 3, 8, 4, 2, 7, 1]
+array = [8, 4, 4, 4, 2, 9, 11]
 E = 0
 for i in array:
     if i % 2 != 0:
