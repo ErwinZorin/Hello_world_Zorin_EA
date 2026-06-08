@@ -1,0 +1,5 @@
+Boars median age is 4.70 years 
+Boars median length is 150.10 cm 
+Boars median tusk_length is 9.50 cm 
+Boars median litter_size is 5.00 
+Boars median territory is 65.85 ha

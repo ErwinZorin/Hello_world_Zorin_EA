@@ -1,0 +1,5 @@
+Boars average age is 4.66 years 
+Boars average length is 149.76 cm 
+Boars average tusk_length is 10.25 cm 
+Boars average litter_size is 3.91 
+Boars average territory is 69.74 ha
