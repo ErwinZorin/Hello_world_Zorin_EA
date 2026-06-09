@@ -1,0 +1,4 @@
+for weight: 
+Weight variance is 718.08 kg*kgStandart deviation is 26.80 kgCoefficient of variation is 38.42 %for length: 
+length variance is 681.50 cm*cmStandart deviation is 26.11 cmCoefficient of variation is 17.43 %for tusk_length: 
+Tusk_length variance is 26.13 cm*cmStandart deviation is 5.11 cmCoefficient of variation is 49.87 %
