@@ -1,0 +1,14 @@
+for weight: 
+Percentile 25 (Q1):	50.5 kg 
+Median 50 (Q2):	65.8 kg 
+Percentile 75 (Q3):	86.0 kg 
+Percentile 90:	106.9 kg 
+Percentile 95:	123.1 kg 
+ Max:	139.7 kg 
+for length: 
+Percentile 25 (Q1):	130.3 kg 
+Median 50 (Q2):	150.1 kg 
+Percentile 75 (Q3):	164.8 kg 
+Percentile 90:	185.5 kg 
+Percentile 95:	195.7 kg 
+Max:	210.0 kg
